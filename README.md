@@ -2,5 +2,4 @@ Copy the text within Blaseball Trans Userstyle.css into your userstyle manager o
 
 If you run into any issues or have any ideas, please contact [@NYMillenials](https://twitter.com/nymillenials) on Twitter!
 
-![Style Preview](/images/preview.png)"# blaseball-trans-userstyle" 
-"# blaseball-trans-userstyle" 
+![Style Preview](/images/preview.png)
